@@ -1,9 +1,10 @@
 # TPE_2_OPTIMISATION_SANS_CONTRAINTE
-Ce projet vise à s'exercer sur differents problème d'optimisation sans contrainte, la descente de gradient a pas fixe et a pas optimal avec des bibliotheques python comme sympy, numpy, ...; en suivant et appliquant les notions vu en couts dans le but de mieux comprendre celui-ci.
+Ce projet vise à s'exercer sur differents problème d'optimisation sans contrainte, la descente de gradient à pas fixe et à pas optimal avec des bibliotheques python comme sympy, numpy, ...; en suivant et appliquant les notions vu en cours dans le but de mieux comprendre celui-ci.
 
 ## Description du projet
 
-Ce projet comporte 3 notebook realisant la descente de gradient a pas fixe et a pas optimal (Appuyer par des observation) pour les fonctions suivante:
+Ce projet comporte 4 notebooks realisant la descente de gradient a pas fixe et a pas optimal (Appuyer par des observation) pour les fonctions suivante:
+- Celle vu en cours $f(x, y) = 0.5 * x^2 + 3.5 * y^2$
 - Rossenbrock $f(x, y) = (1 - x)^2 + 100(y - x^2)^2$
 - Quadratique $f(x, y) = x^2 - y^2$
 - Himmelblau  $f(x, y) = (x^2 + y - 11)^2 + (x + y^2 - 7)^2$
@@ -18,9 +19,14 @@ Ce projet comporte 3 notebook realisant la descente de gradient a pas fixe et a 
 
 TP2_Optimisation_Numerique_sc/
   
-  │── rosssenbrock.ipynb          
-  │── 4_himmelblau.ipynb
-  │── quadratique.ipynb 
+  │── rosssenbrock.ipynb
+  
+  │── Fonction_cours.ipynb
+  
+  │── himmelblau.ipynb
+  
+  │── quadratique.ipynb
+  
   │── doc/
   
   │── 22W2147LETHYCIA-MELONG.md           
