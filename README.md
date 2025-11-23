@@ -4,9 +4,9 @@ Ce projet vise à s'exercer sur differents problème d'optimisation sans contrai
 ## Description du projet
 
 Ce projet comporte 3 notebook realisant la descente de gradient a pas fixe et a pas optimal (Appuyer par des observation) pour les fonctions suivante:
-- Rossenbrock f(x, y) = (1 - x)²  + 100(y - x² )² 
-- Quadratique f(x, y) = x²  - y² 
-- Himmelblau  f(x, y) = (x²  + y - 11)²  + (x + y²  - 7)² 
+- Rossenbrock $f(x, y) = (1 - x)^2 + 100(y - x^2)^2$
+- Quadratique $f(x, y) = x^2 - y^2$
+- Himmelblau  $f(x, y) = (x^2 + y - 11)^2 + (x + y^2 - 7)^2$
 
 ## Objectifs Techniques
 
